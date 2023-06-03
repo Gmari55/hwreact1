@@ -1,0 +1,18 @@
+.citycard{
+    background-color: blue;
+    color:white;
+    display: inline-block;
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 3px;
+    box-shadow: 1px 1px 8px black;
+
+}
+h1{
+   text-align: center;
+}
+.cardlist{
+    display: flex;
+    justify-content: center;
+}
